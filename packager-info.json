@@ -1,0 +1,9 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://k2-bf6.anonymous.pro-70.exp.direct",
+  "packagerNgrokUrl": "https://packager.k2-bf6.anonymous.pro-70.exp.direct",
+  "ngrokPid": 17060,
+  "webpackServerPort": 19006
+}
